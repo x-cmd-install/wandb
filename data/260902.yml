@@ -1,0 +1,65 @@
+about:
+  description: The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.
+  license: MIT
+  homepage: https://wandb.ai
+  head: d8e172d
+  archived: false
+  latestVersion: v0.29.0
+  collectedAt: 2026-09-02T05:10:14Z
+timeline:
+  created: 2017-03-24
+  lastCommit: 2026-09-02
+  lastRelease: 2026-08-26
+popularity:
+  star: 11248
+  watcher: 63
+  fork: 891
+  release: 190
+  contributor: 246
+  pullRequest: 1908
+  issue: 3882
+language:
+  Python: 6168577
+  Go: 3030137
+  Rust: 403429
+  C#: 64655
+  Shell: 18380
+  C++: 9593
+  Jupyter Notebook: 7295
+  Dockerfile: 3801
+  C: 1226
+  Makefile: 1193
+totalLine: 9708286
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 2
+    mergedPR: 147
+    openPR: 86
+    closedIssue: 5
+    openIssue: 5
+    commit: 146
+  last90d:
+    since: 2026-06-04
+    release: 6
+    mergedPR: 383
+    openPR: 121
+    closedIssue: 19
+    openIssue: 15
+    commit: 388
+  last180d:
+    since: 2026-03-06
+    release: 10
+    mergedPR: 715
+    openPR: 151
+    closedIssue: 60
+    openIssue: 28
+    commit: 703
+  last360d:
+    since: 2025-09-07
+    release: 21
+    mergedPR: 1419
+    openPR: 217
+    closedIssue: 136
+    openIssue: 77
+    commit: 1393
