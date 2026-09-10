@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 48582172,
       "digest": "sha256:01aa99ce1c3c1bcd02301447d81922d74b0dcfce1dc4c5064e27cef19b5e7ef9",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-09T00:17:12Z",
       "updated_at": "2026-09-09T00:17:14Z",
       "browser_download_url": "https://github.com/wandb/wandb/releases/download/v0.30.0/wandb-0.30.0.zip"
