@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.30.0"
   latestRelease: "v0.30.0"
   latestPrerelease: "v0.13.0rc6"
-  collectedAt: 2026-09-11T05:47:40Z
+  collectedAt: 2026-09-11T19:13:12Z
 timeline:
   created: 2017-03-24
   lastCommit: 2026-09-10
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-09-09
   lastPrerelease: 2022-08-01
 popularity:
-  star: 11247
+  star: 11246
   watcher: 64
   fork: 897
   release: 191
-  contributor: 247
-  pullRequest: 8798
+  contributor: 248
+  pullRequest: 8801
   issue: 3901
 language:
   Python: 5697981
@@ -39,60 +39,60 @@ recent:
     since: 2026-08-12
     release: 3
     mergedPR: 193
-    openPR: 66
-    closedIssue: 19
-    openIssue: 9
+    openPR: 69
+    closedIssue: 16
+    openIssue: 12
     commit: 209
   last60d:
     since: 2026-07-13
     release: 4
     mergedPR: 342
-    openPR: 108
-    closedIssue: 23
-    openIssue: 11
+    openPR: 111
+    closedIssue: 20
+    openIssue: 14
     commit: 352
   last90d:
     since: 2026-06-13
     release: 5
     mergedPR: 458
-    openPR: 118
-    closedIssue: 31
-    openIssue: 16
+    openPR: 121
+    closedIssue: 28
+    openIssue: 19
     commit: 461
   last180d:
     since: 2026-03-15
     release: 10
     mergedPR: 784
-    openPR: 146
-    closedIssue: 71
-    openIssue: 31
+    openPR: 149
+    closedIssue: 68
+    openIssue: 34
     commit: 774
   last360d:
     since: 2025-09-16
     release: 21
     mergedPR: 1478
-    openPR: 210
-    closedIssue: 146
-    openIssue: 75
+    openPR: 213
+    closedIssue: 143
+    openIssue: 78
     commit: 1463
   last720d:
     since: 2024-09-21
     release: 46
     mergedPR: 2872
-    openPR: 230
-    closedIssue: 368
-    openIssue: 225
+    openPR: 233
+    closedIssue: 365
+    openIssue: 228
     commit: 2836
 total:
   release: 191
   mergedPR: 6877
-  openPR: 241
-  closedIssue: 3194
-  openIssue: 707
+  openPR: 244
+  closedIssue: 3191
+  openIssue: 710
   commit: 9863
 ---
 path: /home/runner/.x-repo/github.com/wandb/wandb
-collectedAt: 2026-09-11T05:48:10Z
+collectedAt: 2026-09-11T19:14:03Z
 loc:
   Go:
     code: 1310908
