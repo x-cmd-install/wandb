@@ -14,13 +14,13 @@ x install wandb
 
 ## Code insight
 
-Total: **1,679,360** lines of code across **7040** files in the top 5 languages.
+Total: **1,681,596** lines of code across **7043** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 1,417,545 | 310,131 | 202,591 | 5881 |
-| Python | 147,118 | 6,359 | 28,099 | 949 |
-| AssemblyGAS | 75,505 | 3,161 | 5,926 | 159 |
+| Go | 1,419,430 | 310,496 | 202,908 | 5884 |
+| Python | 147,453 | 6,362 | 28,180 | 949 |
+| AssemblyGAS | 75,521 | 3,165 | 5,925 | 159 |
 | Rust | 12,383 | 588 | 1,280 | 28 |
 | Json | 10,848 | 0 | 1 | 23 |
 
@@ -33,27 +33,27 @@ Total: **1,679,360** lines of code across **7040** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.30.0` (2026-09-09)
-- **Last commit**: 2026-09-19
+- **Last commit**: 2026-09-22
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 11,256 · **Forks**: 899 · **Open issues**: 3,905 · **Contributors**: 249
+- **Stars**: 11,258 · **Forks**: 900 · **Open issues**: 3,907 · **Contributors**: 249
 
 ## Totals (cumulative)
 
-- **Releases**: 191 · **Merged PRs**: 6917 · **Open PRs**: 273 · **Closed issues**: 3186 · **Open issues**: 719 · **Commits**: 9902
+- **Releases**: 191 · **Merged PRs**: 6924 · **Open PRs**: 271 · **Closed issues**: 3186 · **Open issues**: 721 · **Commits**: 9909
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 2 | 181 | 80 | 5 | 21 | 159 |
-| last60d | 2026-07-23 | 3 | 336 | 132 | 12 | 22 | 324 |
-| 90d | 2026-06-23 | 5 | 459 | 147 | 17 | 26 | 440 |
-| last180d | 2026-03-25 | 10 | 777 | 177 | 50 | 42 | 743 |
-| 360d | 2025-09-26 | 20 | 1453 | 242 | 134 | 86 | 1434 |
-| last720d | 2024-10-01 | 45 | 2868 | 262 | 350 | 231 | 2833 |
+| 30d | 2026-08-23 | 2 | 188 | 78 | 5 | 21 | 166 |
+| last60d | 2026-07-24 | 3 | 340 | 130 | 12 | 24 | 331 |
+| 90d | 2026-06-24 | 4 | 461 | 145 | 17 | 28 | 447 |
+| last180d | 2026-03-26 | 10 | 761 | 173 | 50 | 44 | 750 |
+| 360d | 2025-09-27 | 20 | 1456 | 240 | 134 | 88 | 1441 |
+| last720d | 2024-10-02 | 44 | 2866 | 260 | 350 | 232 | 2830 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for wandb lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T06:00:07Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T06:03:37Z._
