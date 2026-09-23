@@ -4,7 +4,7 @@
 
 The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.
 
-[![x-cmd/install — wandb Code Quality Monitoring Repo Card](https://repo.x-cmd.io/wandb.svg)](https://x-cmd.com/install/wandb)
+[![x-cmd/install — wandb Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/wandb.svg)](https://x-cmd.com/install/wandb)
 
 ## Install
 
@@ -14,15 +14,15 @@ x install wandb
 
 ## Code insight
 
-Total: **1,681,596** lines of code across **7043** files in the top 5 languages.
+Total: **1,682,259** lines of code across **7043** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 1,419,430 | 310,496 | 202,908 | 5884 |
-| Python | 147,453 | 6,362 | 28,180 | 949 |
+| Go | 1,420,071 | 310,623 | 203,006 | 5884 |
+| Python | 147,471 | 6,363 | 28,184 | 949 |
 | AssemblyGAS | 75,521 | 3,165 | 5,925 | 159 |
-| Rust | 12,383 | 588 | 1,280 | 28 |
-| Json | 10,848 | 0 | 1 | 23 |
+| Rust | 12,379 | 586 | 1,280 | 28 |
+| Json | 10,852 | 0 | 1 | 23 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **1,681,596** lines of code across **7043** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.30.0` (2026-09-09)
-- **Last commit**: 2026-09-22
+- **Last commit**: 2026-09-23
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 11,258 · **Forks**: 900 · **Open issues**: 3,907 · **Contributors**: 249
+- **Stars**: 11,259 · **Forks**: 899 · **Open issues**: 3,907 · **Contributors**: 249
 
 ## Totals (cumulative)
 
-- **Releases**: 191 · **Merged PRs**: 6924 · **Open PRs**: 271 · **Closed issues**: 3186 · **Open issues**: 721 · **Commits**: 9909
+- **Releases**: 191 · **Merged PRs**: 6934 · **Open PRs**: 275 · **Closed issues**: 3187 · **Open issues**: 720 · **Commits**: 9919
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 188 | 78 | 5 | 21 | 166 |
-| last60d | 2026-07-24 | 3 | 340 | 130 | 12 | 24 | 331 |
-| 90d | 2026-06-24 | 4 | 461 | 145 | 17 | 28 | 447 |
-| last180d | 2026-03-26 | 10 | 761 | 173 | 50 | 44 | 750 |
-| 360d | 2025-09-27 | 20 | 1456 | 240 | 134 | 88 | 1441 |
-| last720d | 2024-10-02 | 44 | 2866 | 260 | 350 | 232 | 2830 |
+| 30d | 2026-08-24 | 2 | 192 | 75 | 6 | 20 | 176 |
+| last60d | 2026-07-25 | 3 | 338 | 127 | 13 | 23 | 341 |
+| 90d | 2026-06-25 | 4 | 467 | 149 | 18 | 27 | 457 |
+| last180d | 2026-03-27 | 10 | 761 | 177 | 50 | 43 | 760 |
+| 360d | 2025-09-28 | 20 | 1464 | 244 | 135 | 87 | 1451 |
+| last720d | 2024-10-03 | 44 | 2872 | 264 | 351 | 231 | 2834 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for wandb lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:03:37Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:09:57Z._
