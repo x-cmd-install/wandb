@@ -1,0 +1,229 @@
+about:
+  description: "The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production."
+  license: MIT
+  homepage: https://wandb.ai
+  head: 56a048f
+  archived: false
+  latestVersion: "v0.30.0"
+  latestRelease: "v0.30.0"
+  latestPrerelease: "v0.13.0rc6"
+  collectedAt: 2026-09-24T05:31:06Z
+timeline:
+  created: 2017-03-24
+  lastCommit: 2026-09-24
+  lastVersion: 2026-09-09
+  lastRelease: 2026-09-09
+  lastPrerelease: 2022-08-01
+popularity:
+  star: 11261
+  watcher: 63
+  fork: 899
+  release: 191
+  contributor: 250
+  pullRequest: 8923
+  issue: 3908
+language:
+  Python: 5774684
+  Go: 3318939
+  Rust: 403674
+  C#: 64655
+  Shell: 18446
+  C++: 9593
+  Jupyter Notebook: 7310
+  Dockerfile: 3801
+  C: 1226
+  Makefile: 1193
+totalBytes: 9603521
+recent:
+  last30d:
+    since: 2026-08-25
+    release: 2
+    mergedPR: 199
+    openPR: 64
+    closedIssue: 6
+    openIssue: 21
+    commit: 192
+  last60d:
+    since: 2026-07-26
+    release: 3
+    mergedPR: 354
+    openPR: 116
+    closedIssue: 13
+    openIssue: 24
+    commit: 357
+  last90d:
+    since: 2026-06-26
+    release: 4
+    mergedPR: 471
+    openPR: 138
+    closedIssue: 17
+    openIssue: 27
+    commit: 473
+  last180d:
+    since: 2026-03-28
+    release: 10
+    mergedPR: 776
+    openPR: 167
+    closedIssue: 50
+    openIssue: 44
+    commit: 776
+  last360d:
+    since: 2025-09-29
+    release: 20
+    mergedPR: 1473
+    openPR: 234
+    closedIssue: 134
+    openIssue: 87
+    commit: 1467
+  last720d:
+    since: 2024-10-04
+    release: 44
+    mergedPR: 2885
+    openPR: 254
+    closedIssue: 349
+    openIssue: 232
+    commit: 2848
+total:
+  release: 191
+  mergedPR: 6950
+  openPR: 265
+  closedIssue: 3187
+  openIssue: 721
+  commit: 9935
+---
+path: /home/runner/.x-repo/github.com/wandb/wandb
+collectedAt: 2026-09-24T05:31:30Z
+loc:
+  Go:
+    code: 1320554
+    comments: 287656
+    blanks: 186188
+    files: 5249
+  Python:
+    code: 149104
+    comments: 6409
+    blanks: 28443
+    files: 956
+  AssemblyGAS:
+    code: 66022
+    comments: 2956
+    blanks: 5748
+    files: 140
+  Rust:
+    code: 12433
+    comments: 587
+    blanks: 1288
+    files: 28
+  Json:
+    code: 10845
+    comments: 0
+    blanks: 1
+    files: 22
+  Yaml:
+    code: 3224
+    comments: 70
+    blanks: 337
+    files: 22
+  Protobuf:
+    code: 2720
+    comments: 1605
+    blanks: 888
+    files: 17
+  Graphql:
+    code: 2361
+    comments: 82
+    blanks: 175
+    files: 54
+  Sh:
+    code: 1620
+    comments: 230
+    blanks: 215
+    files: 36
+  CSharp:
+    code: 995
+    comments: 513
+    blanks: 187
+    files: 9
+  CHeader:
+    code: 791
+    comments: 237
+    blanks: 131
+    files: 14
+  Makefile:
+    code: 654
+    comments: 143
+    blanks: 213
+    files: 17
+  Svg:
+    code: 599
+    comments: 7
+    blanks: 69
+    files: 5
+  Toml:
+    code: 525
+    comments: 90
+    blanks: 102
+    files: 15
+  Bash:
+    code: 404
+    comments: 60
+    blanks: 46
+    files: 3
+  C:
+    code: 272
+    comments: 14
+    blanks: 59
+    files: 6
+  Cpp:
+    code: 232
+    comments: 26
+    blanks: 46
+    files: 4
+  PowerShell:
+    code: 171
+    comments: 15
+    blanks: 26
+    files: 2
+  MsBuild:
+    code: 98
+    comments: 0
+    blanks: 10
+    files: 3
+  Dockerfile:
+    code: 32
+    comments: 10
+    blanks: 16
+    files: 3
+  Jupyter:
+    code: 18
+    comments: 0
+    blanks: 0
+    files: 8
+  Bitbake:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  ForgeConfig:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 28742
+    blanks: 14927
+    files: 234
+  Text:
+    code: 0
+    comments: 12905
+    blanks: 850
+    files: 52
+total:
+  code: 1577095
+  comments: 343950
+  blanks: 240718
+  files: 6901
+---
+
+---
