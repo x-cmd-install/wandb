@@ -33,27 +33,27 @@ Total: **1,555,745** lines of code across **6151** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.31.0` (2026-10-16)
-- **Last commit**: 2026-10-24
+- **Last commit**: 2026-10-26
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 11,309 · **Forks**: 909 · **Open issues**: 3,917 · **Contributors**: 255
+- **Stars**: 11,310 · **Forks**: 911 · **Open issues**: 3,918 · **Contributors**: 255
 
 ## Totals (cumulative)
 
-- **Releases**: 192 · **Merged PRs**: 7139 · **Open PRs**: 285 · **Closed issues**: 3193 · **Open issues**: 724 · **Commits**: 10123
+- **Releases**: 192 · **Merged PRs**: 7140 · **Open PRs**: 285 · **Closed issues**: 3193 · **Open issues**: 725 · **Commits**: 10124
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 1 | 134 | 71 | 1 | 6 | 169 |
-| last60d | 2026-08-27 | 2 | 360 | 108 | 7 | 26 | 461 |
-| 90d | 2026-07-28 | 4 | 533 | 148 | 15 | 30 | 635 |
-| last180d | 2026-04-29 | 9 | 844 | 183 | 40 | 45 | 1015 |
-| 360d | 2025-10-31 | 18 | 1520 | 248 | 118 | 84 | 2082 |
-| last720d | 2024-11-05 | 43 | 2916 | 274 | 330 | 217 | 2896 |
+| 30d | 2026-09-27 | 1 | 128 | 70 | 1 | 7 | 171 |
+| last60d | 2026-08-28 | 2 | 357 | 108 | 7 | 27 | 463 |
+| 90d | 2026-07-29 | 4 | 525 | 148 | 15 | 31 | 637 |
+| last180d | 2026-04-30 | 9 | 842 | 183 | 40 | 46 | 1017 |
+| 360d | 2025-11-01 | 18 | 1521 | 248 | 118 | 84 | 2084 |
+| last720d | 2024-11-06 | 43 | 2906 | 274 | 327 | 218 | 2885 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for wandb lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:30:20Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T06:00:44Z._
