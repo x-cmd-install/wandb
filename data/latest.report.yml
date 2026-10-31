@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.31.0"
   latestRelease: "v0.31.0"
   latestPrerelease: "v0.13.0rc6"
-  collectedAt: 2026-10-30T06:39:23Z
+  collectedAt: 2026-10-31T06:27:56Z
 timeline:
   created: 2017-03-24
   lastCommit: 2026-10-27
@@ -17,7 +17,7 @@ timeline:
 popularity:
   star: 11310
   watcher: 61
-  fork: 911
+  fork: 912
   release: 192
   contributor: 256
   pullRequest: 9188
@@ -36,23 +36,23 @@ language:
 totalBytes: 10064436
 recent:
   last30d:
-    since: 2026-09-30
+    since: 2026-10-01
     release: 1
-    mergedPR: 100
-    openPR: 63
+    mergedPR: 90
+    openPR: 53
     closedIssue: 0
     openIssue: 10
     commit: 173
   last60d:
-    since: 2026-08-31
+    since: 2026-09-01
     release: 2
-    mergedPR: 350
+    mergedPR: 337
     openPR: 108
     closedIssue: 8
     openIssue: 28
     commit: 465
   last90d:
-    since: 2026-08-01
+    since: 2026-08-02
     release: 4
     mergedPR: 510
     openPR: 150
@@ -60,29 +60,29 @@ recent:
     openIssue: 33
     commit: 639
   last180d:
-    since: 2026-05-03
+    since: 2026-05-04
     release: 9
-    mergedPR: 838
+    mergedPR: 836
     openPR: 185
     closedIssue: 41
     openIssue: 48
     commit: 1019
   last360d:
-    since: 2025-11-04
+    since: 2025-11-05
     release: 18
-    mergedPR: 1515
+    mergedPR: 1511
     openPR: 251
-    closedIssue: 118
+    closedIssue: 117
     openIssue: 85
     commit: 2086
   last720d:
-    since: 2024-11-09
+    since: 2024-11-10
     release: 42
     mergedPR: 2881
     openPR: 277
     closedIssue: 324
-    openIssue: 217
-    commit: 2851
+    openIssue: 216
+    commit: 2850
 total:
   release: 192
   mergedPR: 7141
@@ -92,7 +92,7 @@ total:
   commit: 10125
 ---
 path: /home/runner/.x-repo/github.com/wandb/wandb
-collectedAt: 2026-10-30T06:39:58Z
+collectedAt: 2026-10-31T06:28:20Z
 loc:
   Go:
     code: 1288316
