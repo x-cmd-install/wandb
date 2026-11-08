@@ -38,7 +38,7 @@ Total: **1,568,654** lines of code across **6214** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 11,312 · **Forks**: 915 · **Open issues**: 3,923 · **Contributors**: 258
+- **Stars**: 11,313 · **Forks**: 914 · **Open issues**: 3,923 · **Contributors**: 258
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **1,568,654** lines of code across **6214** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 1 | 93 | 62 | 2 | 9 | 164 |
-| last60d | 2026-09-08 | 2 | 282 | 121 | 9 | 28 | 401 |
-| 90d | 2026-08-09 | 4 | 491 | 152 | 15 | 32 | 645 |
-| last180d | 2026-05-11 | 9 | 839 | 203 | 41 | 46 | 1026 |
-| 360d | 2025-11-12 | 17 | 1492 | 269 | 115 | 83 | 2049 |
-| last720d | 2024-11-17 | 41 | 2844 | 295 | 323 | 212 | 2814 |
+| 30d | 2026-10-09 | 1 | 90 | 60 | 2 | 9 | 100 |
+| last60d | 2026-09-09 | 2 | 276 | 114 | 9 | 28 | 369 |
+| 90d | 2026-08-10 | 4 | 487 | 152 | 15 | 32 | 609 |
+| last180d | 2026-05-12 | 9 | 837 | 203 | 41 | 46 | 1004 |
+| 360d | 2025-11-13 | 17 | 1488 | 269 | 114 | 83 | 1983 |
+| last720d | 2024-11-18 | 41 | 2840 | 295 | 323 | 212 | 2812 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for wandb lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:54:13Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T07:03:02Z._
