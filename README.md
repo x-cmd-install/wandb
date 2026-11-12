@@ -39,12 +39,12 @@ Total: **1,568,866** lines of code across **6217** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 0 | 84 | 75 | 3 | 10 | 0 |
-| last60d | 2026-09-12 | 0 | 267 | 124 | 6 | 14 | 0 |
-| 90d | 2026-08-13 | 0 | 474 | 163 | 14 | 33 | 0 |
-| last180d | 2026-05-15 | 0 | 825 | 213 | 42 | 47 | 0 |
-| 360d | 2025-11-16 | 0 | 1484 | 280 | 112 | 82 | 0 |
-| last720d | 2024-11-21 | 0 | 2822 | 305 | 321 | 213 | 0 |
+| 30d | 2026-10-13 | 0 | 80 | 76 | 3 | 9 | 0 |
+| last60d | 2026-09-13 | 0 | 266 | 125 | 6 | 15 | 0 |
+| 90d | 2026-08-14 | 0 | 467 | 163 | 14 | 34 | 0 |
+| last180d | 2026-05-16 | 0 | 825 | 214 | 42 | 48 | 0 |
+| 360d | 2025-11-17 | 0 | 1475 | 281 | 110 | 82 | 0 |
+| last720d | 2024-11-22 | 0 | 2818 | 306 | 321 | 213 | 0 |
 
 ## Improve this data
 
@@ -55,4 +55,4 @@ Install metadata for wandb lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T07:24:22Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T08:26:24Z._
