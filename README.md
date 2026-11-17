@@ -12,12 +12,12 @@ x install wandb
 
 ## Code insight
 
-Total: **1,569,018** lines of code across **6217** files in the top 5 languages.
+Total: **1,568,987** lines of code across **6217** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 1,300,066 | 290,931 | 183,024 | 5034 |
-| Python | 156,859 | 6,672 | 29,826 | 976 |
+| Go | 1,300,039 | 290,936 | 183,016 | 5034 |
+| Python | 156,855 | 6,672 | 29,826 | 976 |
 | AssemblyGAS | 70,973 | 3,484 | 6,226 | 150 |
 | Rust | 14,958 | 581 | 1,430 | 34 |
 | Json | 10,918 | 0 | 1 | 23 |
@@ -39,12 +39,12 @@ Total: **1,569,018** lines of code across **6217** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 58 | 74 | 3 | 9 | 0 |
-| last60d | 2026-09-17 | 0 | 226 | 125 | 5 | 14 | 0 |
-| 90d | 2026-08-18 | 0 | 463 | 162 | 13 | 34 | 0 |
-| last180d | 2026-05-20 | 0 | 812 | 214 | 39 | 48 | 0 |
-| 360d | 2025-11-21 | 0 | 1445 | 280 | 106 | 81 | 0 |
-| last720d | 2024-11-26 | 0 | 2818 | 309 | 316 | 212 | 0 |
+| 30d | 2026-10-18 | 0 | 61 | 74 | 3 | 9 | 0 |
+| last60d | 2026-09-18 | 0 | 217 | 124 | 5 | 14 | 0 |
+| 90d | 2026-08-19 | 0 | 459 | 159 | 13 | 34 | 0 |
+| last180d | 2026-05-21 | 0 | 810 | 214 | 39 | 48 | 0 |
+| 360d | 2025-11-22 | 0 | 1448 | 279 | 105 | 81 | 0 |
+| last720d | 2024-11-27 | 0 | 2814 | 309 | 313 | 208 | 0 |
 
 ## Improve this data
 
@@ -55,4 +55,4 @@ Install metadata for wandb lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:23:23Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T09:39:08Z._
