@@ -12,14 +12,14 @@ x install wandb
 
 ## Code insight
 
-Total: **1,580,071** lines of code across **6248** files in the top 5 languages.
+Total: **1,581,264** lines of code across **6253** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 1,309,862 | 292,853 | 184,285 | 5062 |
-| Python | 158,186 | 6,690 | 30,156 | 979 |
+| Go | 1,310,213 | 292,902 | 184,328 | 5063 |
+| Python | 158,995 | 6,745 | 30,284 | 983 |
 | AssemblyGAS | 70,970 | 3,478 | 6,232 | 150 |
-| Rust | 14,925 | 581 | 1,428 | 34 |
+| Rust | 14,934 | 581 | 1,428 | 34 |
 | Json | 10,918 | 0 | 1 | 23 |
 
 ## Source
@@ -39,12 +39,12 @@ Total: **1,580,071** lines of code across **6248** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 53 | 83 | 4 | 9 | 0 |
-| last60d | 2026-09-25 | 0 | 207 | 142 | 5 | 14 | 0 |
-| 90d | 2026-08-26 | 0 | 436 | 168 | 13 | 33 | 0 |
-| last180d | 2026-05-28 | 0 | 835 | 229 | 37 | 47 | 0 |
-| 360d | 2025-11-29 | 0 | 1457 | 292 | 100 | 82 | 0 |
-| last720d | 2024-12-04 | 0 | 2818 | 328 | 307 | 206 | 0 |
+| 30d | 2026-10-26 | 0 | 56 | 82 | 4 | 8 | 0 |
+| last60d | 2026-09-26 | 0 | 206 | 135 | 5 | 14 | 0 |
+| 90d | 2026-08-27 | 0 | 433 | 165 | 12 | 33 | 0 |
+| last180d | 2026-05-29 | 0 | 830 | 226 | 35 | 47 | 0 |
+| 360d | 2025-11-30 | 0 | 1464 | 289 | 100 | 82 | 0 |
+| last720d | 2024-12-05 | 0 | 2817 | 325 | 306 | 206 | 0 |
 
 ## Improve this data
 
@@ -55,4 +55,4 @@ Install metadata for wandb lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:43:42Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:13:39Z._
