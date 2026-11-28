@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-11-27T10:13:23Z
+  collectedAt: 2026-11-28T08:26:52Z
 timeline:
   created: 
   lastCommit: 
@@ -24,52 +24,52 @@ popularity:
   issue: 0
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 58
-    openPR: 86
-    closedIssue: 3
-    openIssue: 12
+    openPR: 92
+    closedIssue: 5
+    openIssue: 9
     commit: 0
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
-    mergedPR: 195
-    openPR: 136
-    closedIssue: 5
-    openIssue: 18
+    mergedPR: 181
+    openPR: 142
+    closedIssue: 7
+    openIssue: 16
     commit: 0
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
     mergedPR: 432
-    openPR: 171
-    closedIssue: 13
-    openIssue: 37
+    openPR: 175
+    closedIssue: 15
+    openIssue: 35
     commit: 0
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 0
-    mergedPR: 834
-    openPR: 232
-    closedIssue: 35
-    openIssue: 51
+    mergedPR: 833
+    openPR: 239
+    closedIssue: 37
+    openIssue: 48
     commit: 0
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 0
-    mergedPR: 1451
-    openPR: 294
-    closedIssue: 101
-    openIssue: 86
+    mergedPR: 1437
+    openPR: 301
+    closedIssue: 103
+    openIssue: 83
     commit: 0
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 0
     mergedPR: 2813
-    openPR: 331
-    closedIssue: 307
-    openIssue: 210
+    openPR: 338
+    closedIssue: 309
+    openIssue: 208
     commit: 0
 total:
   release: 0
@@ -83,7 +83,7 @@ graphqlErrors:
   - Although you appear to have the correct authorization credentials, the `wandb` organization has an IP allow list enabled, and your IP address is not permitted to access this resource.
 ---
 path: /home/runner/.x-repo/github.com/wandb/wandb
-collectedAt: 2026-11-27T10:13:49Z
+collectedAt: 2026-11-28T08:27:16Z
 loc:
   Go:
     code: 1310236
